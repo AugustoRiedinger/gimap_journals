@@ -1,8 +1,15 @@
 #+title: Journals
-* MAGNETOSTATICS AND NUMERICAL METHODS
+* [ELSEVIER] MAGNETOSTATICS AND NUMERICAL METHODS
 ** AEJ - Alexandria Engineering Journal
 + [[https://www.scimagojr.com/journalsearch.php?q=13907&tip=sid&clean=0][Scimago]]
 + [[https://www.journals.elsevier.com/alexandria-engineering-journal?adobe_mc=MCMID%3D64272179754566932943214502000217222347%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1664207913][Journal page]]
+
+Characteristics:
+
++ *Q1 (2021)*.
++ *Impact factor:* 6.626.
++ *H-index:* 68.
++ *Cite score:* 8.3.
 
 Alexandria Engineering Journal is an international journal devoted to publishing high quality papers in the field of engineering and applied science. Alexandria Engineering Journal is cited in the Engineering Information Services (EIS) and the Chemical Abstracts (CA). The papers published in Alexandria Engineering Journal are grouped into five sections, according to the following classification:
 
@@ -13,3 +20,16 @@ Alexandria Engineering Journal is an international journal devoted to publishing
 + Environmental Engineering.
 
 Alexandria Engineering Journal publishes original papers, critical reviews, technical papers, technical data, short notes, and letters to the editor. Papers covering experimental, theoretical, and computational aspects which contribute to the understanding of engineering and applied sciences or give an insight into engineering practices and processes are welcome. Authors from all over the world are invited to submit manuscripts for possible publications in Alexandria Engineering Journal.
+
+** Computers & Structures
++ [[https://www.scimagojr.com/journalsearch.php?q=18171&tip=sid&clean=0][Scimago]]
++ [[https://www.sciencedirect.com/journal/computers-and-structures?adobe_mc=MCMID%3D64272179754566932943214502000217222347%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1664207954][Journal page]]
+
+Characteristics:
+
++ *Q1 (2021)*.
++ *Impact factor:* 5.372.
++ *H-index:* 144.
++ *Cite score:* 8.2.
+
+Computers & Structures publishes advances in the development and use of computational methods for the solution of problems in engineering and the sciences. The range of appropriate contributions is wide, and includes papers on establishing appropriate mathematical models and their numerical solution in all areas of mechanics. The journal also includes articles that present a substantial review of a field in the topics of the journal. With the modern use of computers and numerical methods to model and solve problems, the traditional boundaries between the fields of solid/structural mechanics and fluid mechanics hardly exist any longer, and multiphysics problems are solved that involve all aspects of mechanics. The word 'structures' must therefore now be interpreted in a broad sense including solids, fluids and multiphysics.
