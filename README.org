@@ -93,3 +93,55 @@ The objective of this journal is to communicate recent and projected advances in
 + Quality and reliability
 
 The journal publishes research papers, survey papers on key application areas, short communications and technical notes, discussions, software reviews and book reviews. A conference calendar is also included – entries welcome.
+** CMAME - Computer Methods in Applied Mechanics and Engineering
++ [[https://www.scimagojr.com/journalsearch.php?q=18158&tip=sid&clean=0][Scimago]]
++ [[https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering?adobe_mc=MCMID%3D64272179754566932943214502000217222347%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1664208020][Journal page]]
+
+Characteristics:
+
++ *Q1 (2021)*
++ *Impact factor:* 6.588.
++ *H-index:* 205.
++ *Cite score:* 10.3.
+
+Computer Methods in Applied Mechanics and Engineering was founded over three decades ago, providing a platform for the publication of papers in this important field of science and engineering. The range of appropriate contributions is very wide. It covers any type of computational method for the simulation of complex physical problems leading to the analysis and design of engineering products and systems. This includes theoretical development and rational applications of mathematical models, variational formulations, and numerical algorithms related to finite element, boundary element, finite difference, finite volume, and meshless discretization methods in the following fields of computational science and engineering:
+
++ Solid and structural mechanics
++ Fluid mechanics
++ Mechanics of materials
++ Heat transfer
++ Dynamics
++ Geomechanics
++ Acoustics
++ Biomechanics
++ Nanomechanics
++ Molecular dynamics
++ Quantum mechanics
++ Electromagnetics
+
+and also includes virtual design, multiscale phenomena, from nanoscale to macroscale, multiphysics problems, parallel computing, optimization, machine learning, probabilistic and stochastic approaches.
+
+CMAME publishes original papers at the forefront of modern research describing significant developments of computational methods in solving problems of applied mechanics and engineering.
+** Engineering Analysis with Boundary Elements
++ [[https://www.scimagojr.com/journalsearch.php?q=20307&tip=sid&clean=0][Scimago]]
++ [[https://www.sciencedirect.com/journal/engineering-analysis-with-boundary-elements][Journal page]]
+
+Characteristics:
+
++ *Q1:* Engineering.
++ *Q2:* Computational mathematics, Applied mathematics, Analysis.
++ *Impact factor:* 3.25.
++ *H-index:* 77.
++ *Cite score:* 5.0.
+
+This journal is specifically dedicated to the dissemination of the latest developments of new engineering analysis techniques using boundary elements and other mesh reduction methods. Boundary element (BEM) and mesh reduction methods (MRM) are very active areas of research with the techniques being applied to solve increasingly complex problems. The journal stresses the importance of these applications as well as their computational aspects, reliability and robustness. The main criteria for publication will be the originality of the work being reported, its potential usefulness and applications of the methods to new fields. In addition to regular issues, the journal publishes a series of special issues dealing with specific areas of current research. The journal has, for many years, provided a channel of communication between academics and industrial researchers working in mesh reduction methods Fields Covered:
+
++ Boundary Element Methods (BEM)
++ Mesh Reduction Methods (MRM)
++ Meshless Methods
++ Integral Equations
++ Applications of BEM/MRM in Engineering
++ Numerical Methods related to BEM/MRM
++ Computational Techniques
++ Combination of Different Methods
++ Advanced Formulations
