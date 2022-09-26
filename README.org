@@ -1,0 +1,15 @@
+#+title: Journals
+* MAGNETOSTATICS AND NUMERICAL METHODS
+** AEJ - Alexandria Engineering Journal
++ [[https://www.scimagojr.com/journalsearch.php?q=13907&tip=sid&clean=0][Scimago]]
++ [[https://www.journals.elsevier.com/alexandria-engineering-journal?adobe_mc=MCMID%3D64272179754566932943214502000217222347%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1664207913][Journal page]]
+
+Alexandria Engineering Journal is an international journal devoted to publishing high quality papers in the field of engineering and applied science. Alexandria Engineering Journal is cited in the Engineering Information Services (EIS) and the Chemical Abstracts (CA). The papers published in Alexandria Engineering Journal are grouped into five sections, according to the following classification:
+
++ Mechanical, Production, Marine and Textile Engineering.
++ Electrical Engineering, Computer Science and Nuclear Engineering.
++ Civil and Architecture Engineering.
++ Chemical Engineering and Applied Sciences.
++ Environmental Engineering.
+
+Alexandria Engineering Journal publishes original papers, critical reviews, technical papers, technical data, short notes, and letters to the editor. Papers covering experimental, theoretical, and computational aspects which contribute to the understanding of engineering and applied sciences or give an insight into engineering practices and processes are welcome. Authors from all over the world are invited to submit manuscripts for possible publications in Alexandria Engineering Journal.
