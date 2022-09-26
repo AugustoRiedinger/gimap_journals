@@ -1,0 +1,3 @@
+#+title: Journals
+* MAGNETOSTATICS AND NUMERICAL METHODS
+** AEJ - Alexandria Engineering Journal
