@@ -33,3 +33,63 @@ Characteristics:
 + *Cite score:* 8.2.
 
 Computers & Structures publishes advances in the development and use of computational methods for the solution of problems in engineering and the sciences. The range of appropriate contributions is wide, and includes papers on establishing appropriate mathematical models and their numerical solution in all areas of mechanics. The journal also includes articles that present a substantial review of a field in the topics of the journal. With the modern use of computers and numerical methods to model and solve problems, the traditional boundaries between the fields of solid/structural mechanics and fluid mechanics hardly exist any longer, and multiphysics problems are solved that involve all aspects of mechanics. The word 'structures' must therefore now be interpreted in a broad sense including solids, fluids and multiphysics.
+** Mechanics Research Communications
++ [[https://www.scimagojr.com/journalsearch.php?q=17829&tip=sid&clean=0][Scimago]]
++ [[https://www.sciencedirect.com/journal/mechanics-research-communications?adobe_mc=MCMID%3D64272179754566932943214502000217222347%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1664207967][Journal page]]
+
+Characteristics:
+
++ *Q1:* Mechanical engineering.
++ *Q2:* Mechanics of materials, Civil and structural engineering, Condensed matter physics.
++ *Impact factor:* 2.749.
++ *H-index:* 71.
++ *Cite score:* 4.4.
+
+Mechanics Research Communications publishes, as rapidly as possible, peer-reviewed manuscripts of high standards but restricted length. It aims to provide:
++ a fast means of communication
++ an exchange of ideas among workers in mechanics
++ an effective method of bringing new results quickly to the public
++ an informal vehicle for the discussion of ideas that may still be in the formative stages
+
+The field of Mechanics will be understood to encompass the behavior of continua, fluids, solids, particles and their mixtures. Submissions must contain a strong, novel contribution to the field of mechanics, and ideally should be focused on current issues in the field involving theoretical, experimental and/or applied research, preferably within the broad expertise encompassed by the Board of Associate Editors. Deviations from these areas should be discussed in advance with the Editor-in-Chief.
+** Measurement: Journal of the International Measurement Confederation
++ [[https://www.scimagojr.com/journalsearch.php?q=15424&tip=sid&clean=0][Scimago]]
++ [[https://www.journals.elsevier.com/measurement?adobe_mc=MCMID%3D64272179754566932943214502000217222347%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1664207976][Journal page]]
+
+Characteristics:
+
++ *Q1:* Instrumentation, Electrical and electronic engineering, Education, Condensed matter physics, Applied mathematics.
++ *Q2:* Statistics and probability.
++ *Impact factor:* 5.131.
++ *H-index:* 102.
++ *Cite score:* 7.8 .
+
+Contributions are invited on novel achievements in all fields of measurement and instrumentation science and technology. Authors are encouraged to submit novel material, whose ultimate goal is an advancement in the state of the art of: measurement and metrology fundamentals, sensors, measurement instruments, measurement and estimation techniques, measurement data processing and fusion algorithms, evaluation procedures and methodologies for plants and industrial processes, performance analysis of systems, processes and algorithms, mathematical models for measurement-oriented purposes, distributed measurement systems in a connected world.
+** Advances in Engineering Software
++ [[https://www.scimagojr.com/journalsearch.php?q=18089&tip=sid&clean=0][Scimago]]
++ [[https://www.sciencedirect.com/journal/advances-in-engineering-software?adobe_mc=MCMID%3D64272179754566932943214502000217222347%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1664207995][Journal page]]
+
+Characteristics:
+
++ *Q1:* Engineering (misc.).
++ *Q2:* Software.
++ *Impact factor:* 4.255.
++ *H-index:* 86.
++ *Cite score:* 9.3.
+
+The objective of this journal is to communicate recent and projected advances in computer-based engineering techniques. The fields covered include mechanical, aerospace, civil and environmental engineering, with an emphasis on research and development leading to practical problem-solving. The scope of the journal includes:
+
++ Innovative computational strategies and numerical algorithms for large-scale engineering problems
++ Analysis and simulation techniques and systems
++ Model and mesh generation
++ Control of the accuracy, stability and efficiency of computational process
++ Exploitation of new computing environments (eg distributed hetergeneous and collaborative computing)
++ Advanced visualization techniques, virtual environments and prototyping
++ Applications of AI, knowledge-based systems, computational intelligence, including fuzzy logic, neural networks and evolutionary computations
++ Application of object-oriented technology to engineering problems
++ Intelligent human computer interfaces
++ Design automation, multidisciplinary design and optimization
++ CAD, CAE and integrated process and product development systems
++ Quality and reliability
+
+The journal publishes research papers, survey papers on key application areas, short communications and technical notes, discussions, software reviews and book reviews. A conference calendar is also included – entries welcome.
